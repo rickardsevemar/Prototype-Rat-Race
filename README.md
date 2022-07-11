@@ -11,4 +11,4 @@ it only starts over. As soon as time runs out, the game will end and the player 
 or to quit and do something useful with their life. In essence the point is that the player trusts the system, of having to gain more time, 
 to provide them with an appropriate ending with a tangible goal.
 
-Developed in Unreal Engine 4
+Developed with Unreal Engine 4 over two weeks.
